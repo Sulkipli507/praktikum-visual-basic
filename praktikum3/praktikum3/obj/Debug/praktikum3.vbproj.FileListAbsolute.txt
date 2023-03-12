@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\bin\Debug\praktikum3.exe.config
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\bin\Debug\praktikum3.exe
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\bin\Debug\praktikum3.pdb
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\bin\Debug\praktikum3.xml
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.Form1.resources
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.Resources.resources
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.exe
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.xml
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.pdb
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.Form2.resources
+C:\Users\user\Documents\Pemrograman visual\praktikum3\praktikum3\obj\Debug\praktikum3.Form3.resources
