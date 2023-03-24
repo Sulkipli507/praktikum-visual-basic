@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\bin\Debug\MenghitungUmurDanKategori.exe.config
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\bin\Debug\MenghitungUmurDanKategori.exe
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\bin\Debug\MenghitungUmurDanKategori.pdb
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\bin\Debug\MenghitungUmurDanKategori.xml
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.Form1.resources
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.Resources.resources
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.exe
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.xml
+C:\Users\user\Documents\Pemrograman visual\MenghitungUmurDanKategori\MenghitungUmurDanKategori\obj\Debug\MenghitungUmurDanKategori.pdb

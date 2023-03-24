@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\bin\Debug\Quis.exe.config
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\bin\Debug\Quis.exe
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\bin\Debug\Quis.pdb
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\bin\Debug\Quis.xml
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.Form1.resources
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.Resources.resources
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.exe
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.xml
+C:\Users\user\Documents\Pemrograman visual\Quis\Quis\obj\Debug\Quis.pdb
