@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\bin\Debug\MenghitungHargaTanah.exe.config
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\bin\Debug\MenghitungHargaTanah.exe
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\bin\Debug\MenghitungHargaTanah.pdb
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\bin\Debug\MenghitungHargaTanah.xml
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.Form1.resources
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.Resources.resources
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.exe
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.xml
+C:\Users\user\Documents\Pemrograman visual\MenghitungHargaTanah\MenghitungHargaTanah\obj\Debug\MenghitungHargaTanah.pdb
