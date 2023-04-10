@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\bin\Debug\Program menghitung harga tanah.exe.config
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\bin\Debug\Program menghitung harga tanah.exe
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\bin\Debug\Program menghitung harga tanah.pdb
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\bin\Debug\Program menghitung harga tanah.xml
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program_menghitung_harga_tanah.Form1.resources
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program_menghitung_harga_tanah.Resources.resources
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.exe
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.xml
+C:\Users\user\Documents\Pemrograman visual\Program menghitung harga tanah\Program menghitung harga tanah\obj\Debug\Program menghitung harga tanah.pdb

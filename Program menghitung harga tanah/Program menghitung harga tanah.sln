@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MenghitungHargaTanah", "MenghitungHargaTanah\MenghitungHargaTanah.vbproj", "{257381D1-D14E-48AE-B318-63D2E6E174BF}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Program menghitung harga tanah", "Program menghitung harga tanah\Program menghitung harga tanah.vbproj", "{2BD35620-9F71-4196-9D82-1268598ED9A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{257381D1-D14E-48AE-B318-63D2E6E174BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{257381D1-D14E-48AE-B318-63D2E6E174BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{257381D1-D14E-48AE-B318-63D2E6E174BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{257381D1-D14E-48AE-B318-63D2E6E174BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD35620-9F71-4196-9D82-1268598ED9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD35620-9F71-4196-9D82-1268598ED9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD35620-9F71-4196-9D82-1268598ED9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD35620-9F71-4196-9D82-1268598ED9A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EC098D3A-8CFC-4743-A775-234689B8E9EC}
+		SolutionGuid = {B60CB36C-E9CB-49B6-B7EE-779E198710B5}
 	EndGlobalSection
 EndGlobal

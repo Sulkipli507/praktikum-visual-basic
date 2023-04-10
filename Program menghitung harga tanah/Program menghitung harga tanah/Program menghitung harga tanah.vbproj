@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{257381D1-D14E-48AE-B318-63D2E6E174BF}</ProjectGuid>
+    <ProjectGuid>{2BD35620-9F71-4196-9D82-1268598ED9A4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>MenghitungHargaTanah.My.MyApplication</StartupObject>
-    <RootNamespace>MenghitungHargaTanah</RootNamespace>
-    <AssemblyName>MenghitungHargaTanah</AssemblyName>
+    <StartupObject>Program_menghitung_harga_tanah.My.MyApplication</StartupObject>
+    <RootNamespace>Program_menghitung_harga_tanah</RootNamespace>
+    <AssemblyName>Program menghitung harga tanah</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>MenghitungHargaTanah.xml</DocumentationFile>
+    <DocumentationFile>Program menghitung harga tanah.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>MenghitungHargaTanah.xml</DocumentationFile>
+    <DocumentationFile>Program menghitung harga tanah.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
